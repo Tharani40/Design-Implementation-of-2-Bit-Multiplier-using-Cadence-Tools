@@ -65,7 +65,8 @@ The aim is to design and implement a **2-bit Multiplier** using **Cadence Virtuo
 ## Output
 ### Transient Analysis Output:
 <img width="866" height="698" alt="555152850-eccf0346-b605-4cef-90ef-639755e3eead" src="https://github.com/user-attachments/assets/111c0b9a-b4a4-4de5-b8a1-69dfdb42f5c8" />
-![image](https://github.com/user-attachments/assets/55864d90-af08-4836-bc90-4cbba80573f8)
+<img width="966" height="236" alt="444249229-55864d90-af08-4836-bc90-4cbba80573f8" src="https://github.com/user-attachments/assets/c3473cba-ec64-4b14-8ade-ad1fa29a0c6d" />
+
 <img width="1918" height="1199" alt="555153056-cad2be82-a611-41bc-9966-913f21b79c8f" src="https://github.com/user-attachments/assets/59b4e8d6-9e18-4afe-931b-2eee5215cfb0" />
 Run Time : 200ns
 
